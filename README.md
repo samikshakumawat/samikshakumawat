@@ -66,7 +66,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/samiksha-kumawat-2920a5315
+- 💼 LinkedIn:www.linkedin.com/in/samiksha-kumawat-2920a5315
 - 📧 Email: kumawatsamiksha8@gmail.com
 - 🌱 GitHub: https://github.com/https://github.com/samikshakumawat
 
